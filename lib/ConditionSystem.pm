@@ -1,6 +1,6 @@
 package ConditionSystem;
 BEGIN {
-  $ConditionSystem::VERSION = '0.01';
+  $ConditionSystem::VERSION = '0.02';
 }
 # ABSTRACT: A Common Lisp like condition/restart system for exceptions
 
